@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hello there 👋
 
-<!--
-**sahilkumar3012/sahilkumar3012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Java Full-Stack Developer  by day ☼ and Open Source Contributor by night ☾
 
-Here are some ideas to get you started:
+Java Full-Stack Developer  at []();<br>
+Based in Bhopal;<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚙️ I use daily: `.java, .html, .css, .javascript, .springboot, .mysql`
+- 🌍 I'm mostly active within the **Java Community**
+- 💬 `ping` me about **Java Full-Stack **
+- 📫 How to reach me: [sahilkumar6202861819@gmail.com](mailto:sahilkumar6202861819@gmail.com)
+- ⚡ Fun fact: Fueled by good food, Java code, and lots of sleep.
+
+---
+
+### ✍️ Blog & Content
+
+### 💖 Support
